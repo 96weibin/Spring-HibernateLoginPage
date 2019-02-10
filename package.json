@@ -1,0 +1,29 @@
+{
+  "name": "spring-hibernateloginpage",
+  "version": "1.0.0",
+  "description": "use Spring Hibernate and FE Design user login page",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/96weibin/Spring-HibernateLoginPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/96weibin/Spring-HibernateLoginPage/issues"
+  },
+  "homepage": "https://github.com/96weibin/Spring-HibernateLoginPage#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-less": "^4.0.1"
+  }
+}
